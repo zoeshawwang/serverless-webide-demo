@@ -1,1 +1,2 @@
+cd ./code
 make release
