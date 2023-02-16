@@ -10,4 +10,4 @@ if [ ! -d /opt/openvscode-server ]; then
 fi
 
 chmod +x /opt/openvscode-server/bin/openvscode-server
-./src/target/webide-server -logtostderr=true
+./code/target/webide-server -logtostderr=true
